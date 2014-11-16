@@ -1,0 +1,6 @@
+MCONS Engine is an expanded version of Windows CMD©
+MCONS Engine has got a bunch of options that aren't found in CMD.
+Credits:
+Micha³ We³na - Idea giver and programist
+
+Hope you will enjoy :-)
